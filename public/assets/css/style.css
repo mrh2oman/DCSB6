@@ -1,0 +1,75 @@
+.headerLogo {
+    height: 40px;
+    width: auto;
+    float: left;
+    padding-right: 2px;
+}
+
+.jumbotron {
+    background-color: rgb(239, 178, 45);
+}
+
+.navbar-brand {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.donate {
+    background-color: rgb(226, 61, 40);
+    outline-color: rgb(226, 61, 40);
+    color: white;
+}
+
+.construction {
+    text-align: center;
+}
+
+.nav-link {
+    color: rgb(0, 56, 147) !important;
+}
+
+#connect {
+    text-align: center;
+    background-color: black;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.wrapper {
+    height: auto !important;
+    height: 100%;
+    min-height: 100%;
+    margin: 0 auto -105px;
+}
+
+footer,
+.push {
+    height: 105px;
+}
+
+footer {
+    background-color: rgb(78, 78, 78);
+    text-align: right;
+}
+
+.largeLogo {
+    height: 250px;
+    width: auto;
+    margin: 0 auto;
+}
+
+.footerText {
+    padding-top: 40px;
+}
+
+.textHolder {
+    margin: 0;
+    padding-bottom: 20px;
+    text-align: center !important;
+}
